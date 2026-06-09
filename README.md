@@ -1,4 +1,5 @@
 BS.Player SOAP Subtitle Downloader
+
 An automated Python script that calculates the unique BS.Player file hash of your videos, queries the BS.Player SOAP API, and downloads matching subtitles.
 
 Features
